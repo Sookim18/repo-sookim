@@ -1,3 +1,4 @@
 git command
-add command
+add command`
 commit command
+pull command
