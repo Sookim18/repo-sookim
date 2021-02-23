@@ -2,3 +2,6 @@ git command
 add command`
 commit command
 pull command
+
+sookimsookim
+test
