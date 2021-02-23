@@ -3,5 +3,9 @@ add command`
 commit command
 pull command
 
+JMJMJM
+JMJMJM
+
 sookimsookim
 test
+
